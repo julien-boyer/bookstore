@@ -1,6 +1,6 @@
-let fs = require('fs');
+import fs from 'fs';
 
-module.exports = class Products {
+export default class Products {
 
 	constructor(path, callback){
 		this.path = path;
