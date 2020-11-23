@@ -1,32 +1,32 @@
 [
-{
-	"id":"You-Dont-Know-JS-Get-Started",
-	"name":"You Dont Know JS: Get Started",
-	"description":"This is a series of books diving deep into the core mechanisms of the JavaScript language.",
-	"USD_price":10,
-	"EUR_price":10,
-	"file_link":"https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started",
-	"creation_date":"2019-01-01",
-	"orders_counter":0
-},
-{
-	"id":"You-Dont-Know-JS-Scopes-and-Closures",
-	"name":"You Dont Know JS: Scopes and closures",
-	"description":"This is a series of books diving deep into the core mechanisms of the JavaScript language.",
-	"USD_price":10,
-	"EUR_price":10,
-	"file_link":"https://www.amazon.com/dp/B084BNMN7T",
-	"creation_date":"2019-01-01",
-	"orders_counter":0
-},
-{
-	"id":"my-first-node-app",
-	"name":"My first node application",
-	"description":"A training application",
-	"USD_price":5,
-	"EUR_price":4,
-	"file_link":"https://www.amazon.com/dp/B08634PZ3N",
-	"creation_date":"2020-11-23",
-	"orders_counter":0
-}
+  {
+    "id": "You-Dont-Know-JS-Get-Started",
+    "name": "You Dont Know JS: Get Started",
+    "description": "This is a series of books diving deep into the core mechanisms of the JavaScript language.",
+    "USD_price": 10,
+    "EUR_price": 10,
+    "file_link": "https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started",
+    "creation_date": "2019-01-01",
+    "orders_counter": 4
+  },
+  {
+    "id": "You-Dont-Know-JS-Scopes-and-Closures",
+    "name": "You Dont Know JS: Scopes and closures",
+    "description": "This is a series of books diving deep into the core mechanisms of the JavaScript language.",
+    "USD_price": 10,
+    "EUR_price": 10,
+    "file_link": "https://www.amazon.com/dp/B084BNMN7T",
+    "creation_date": "2019-01-01",
+    "orders_counter": 0
+  },
+  {
+    "id": "my-first-node-app",
+    "name": "My first node application",
+    "description": "A training application",
+    "USD_price": 5,
+    "EUR_price": 4,
+    "file_link": "https://www.amazon.com/dp/B08634PZ3N",
+    "creation_date": "2020-11-23",
+    "orders_counter": 0
+  }
 ]
